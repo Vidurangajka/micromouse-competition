@@ -1,0 +1,10 @@
+Vidurangajka 22
+Megaport#73
+C:\Users\Anjana Vidura\Downloads
+C:\Users\Anjana Vidura\Documents\AltiumLL\SamacSys.SchLib
+C:\Users\Anjana Vidura\Documents\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True
